@@ -1,0 +1,1 @@
+﻿addHttpRequestHandler("/uploadFile", "Scripts/wakanda.js", "processFile");
